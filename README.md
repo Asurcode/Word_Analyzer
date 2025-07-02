@@ -23,7 +23,7 @@ the	55
 python	30
 code	25
 
-
+---
 ## Why I Built This
 - This project helped me:
 - Practice file handling in Python
