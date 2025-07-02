@@ -19,10 +19,6 @@ for text in text_file: #get only word to a new list
 
 text_file_cleaned = [x.strip(' \n') for x in new_text_file] # remove trailing withspace and newline
 
-
-
-
-
 ##3 Split and make it to a list
 
 split_word_list = []
