@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Word Analyzer 
 
 ##1 Input text file for analysis
