@@ -1,5 +1,10 @@
 # Word Analyzer
 
+
+<img width="819" height="401" alt="image" src="https://github.com/user-attachments/assets/cb4ad24c-f05a-4ee9-b8f9-508d6ea3037a" />
+
+
+
 **Word Analyzer** is a beginner-friendly Python program that reads a text file, processes the content, and outputs a CSV file with word frequency counts.  
 This project was created as part of my journey into data analysis and programming fundamentals.
 
